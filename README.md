@@ -5,4 +5,4 @@ This project is creating a dynamic way to visualize data from SmartEagle (SE) th
 pavement scanning.
 
 SE give us High Resolution Images and precise GPS data about the longitudinal profile in roads to identify IRI
-(Internatinal Roughness Index)
+(Internatinal Roughness Index).
